@@ -6,3 +6,4 @@ creating a new branch is quick in feature1 in master
 in master
 add testfeature
 new commit
+issue-101
