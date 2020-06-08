@@ -7,3 +7,5 @@ in master
 add testfeature
 new commit
 issue-101
+
+使用新的方式提交
